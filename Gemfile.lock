@@ -1,0 +1,14 @@
+PATH
+  remote: .
+  specs:
+    ruby_gem (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ruby_gem!
