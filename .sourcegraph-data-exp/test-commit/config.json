@@ -1,0 +1,11 @@
+{
+  "URI": "github.com/sgtest/ruby-sample-0",
+  "SourceUnits": [
+    {
+      "Dir": ".",
+      "GemName": "ruby_gem",
+      "Type": "RubyGem",
+      "Version": "0.0.1"
+    }
+  ]
+}
