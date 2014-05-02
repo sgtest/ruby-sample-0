@@ -1,0 +1,203 @@
+{
+  "Symbols": [
+    {
+      "Path": "C",
+      "SpecificPath": "C",
+      "Kind": "",
+      "SpecificKind": "",
+      "Name": "C",
+      "Callable": false,
+      "File": "lib/cases/top_const.rb",
+      "DefStart": 0,
+      "DefEnd": 5,
+      "Exported": true
+    },
+    {
+      "Path": "C/$classmethods/ccm",
+      "SpecificPath": "C.ccm",
+      "Kind": "",
+      "SpecificKind": "",
+      "Name": "ccm",
+      "Callable": false,
+      "File": "lib/cases/class.rb",
+      "DefStart": 10,
+      "DefEnd": 27,
+      "Exported": true
+    },
+    {
+      "Path": "C/$methods/im",
+      "SpecificPath": "C#im",
+      "Kind": "",
+      "SpecificKind": "",
+      "Name": "im",
+      "Callable": false,
+      "File": "lib/cases/class.rb",
+      "DefStart": 30,
+      "DefEnd": 41,
+      "Exported": true
+    },
+    {
+      "Path": "C/$methods/im2",
+      "SpecificPath": "C#im2",
+      "Kind": "",
+      "SpecificKind": "",
+      "Name": "im2",
+      "Callable": false,
+      "File": "lib/cases/class.rb",
+      "DefStart": 44,
+      "DefEnd": 77,
+      "Exported": true
+    },
+    {
+      "Path": "C/$methods/x",
+      "SpecificPath": "C#x",
+      "Kind": "",
+      "SpecificKind": "",
+      "Name": "x",
+      "Callable": false,
+      "File": "lib/cases/class.rb",
+      "DefStart": 81,
+      "DefEnd": 97,
+      "Exported": true
+    },
+    {
+      "Path": "C/$methods/x=",
+      "SpecificPath": "C#x=",
+      "Kind": "",
+      "SpecificKind": "",
+      "Name": "x=",
+      "Callable": false,
+      "File": "lib/cases/class.rb",
+      "DefStart": 81,
+      "DefEnd": 97,
+      "Exported": true
+    },
+    {
+      "Path": "C/$methods/ivdef",
+      "SpecificPath": "C#ivdef",
+      "Kind": "",
+      "SpecificKind": "",
+      "Name": "ivdef",
+      "Callable": false,
+      "File": "lib/cases/class.rb",
+      "DefStart": 100,
+      "DefEnd": 141,
+      "Exported": true
+    },
+    {
+      "Path": "C/@x",
+      "SpecificPath": "C::@x",
+      "Kind": "",
+      "SpecificKind": "",
+      "Name": "@x",
+      "Callable": false,
+      "File": "lib/cases/class.rb",
+      "DefStart": 114,
+      "DefEnd": 120,
+      "Exported": true
+    },
+    {
+      "Path": "C/$methods/ivref",
+      "SpecificPath": "C#ivref",
+      "Kind": "",
+      "SpecificKind": "",
+      "Name": "ivref",
+      "Callable": false,
+      "File": "lib/cases/class.rb",
+      "DefStart": 144,
+      "DefEnd": 172,
+      "Exported": true
+    },
+    {
+      "Path": "C/D",
+      "SpecificPath": "C::D",
+      "Kind": "",
+      "SpecificKind": "",
+      "Name": "D",
+      "Callable": false,
+      "File": "lib/cases/class.rb",
+      "DefStart": 176,
+      "DefEnd": 231,
+      "Exported": true
+    },
+    {
+      "Path": "C/D/$classmethods/dcm",
+      "SpecificPath": "C::D.dcm",
+      "Kind": "",
+      "SpecificKind": "",
+      "Name": "dcm",
+      "Callable": false,
+      "File": "lib/cases/class.rb",
+      "DefStart": 190,
+      "DefEnd": 207,
+      "Exported": true
+    },
+    {
+      "Path": "C/D/$methods/im",
+      "SpecificPath": "C::D#im",
+      "Kind": "",
+      "SpecificKind": "",
+      "Name": "im",
+      "Callable": false,
+      "File": "lib/cases/class.rb",
+      "DefStart": 214,
+      "DefEnd": 225,
+      "Exported": true
+    },
+    {
+      "Path": "M",
+      "SpecificPath": "M",
+      "Kind": "",
+      "SpecificKind": "",
+      "Name": "M",
+      "Callable": false,
+      "File": "lib/cases/module.rb",
+      "DefStart": 0,
+      "DefEnd": 40,
+      "Exported": true
+    },
+    {
+      "Path": "M/N",
+      "SpecificPath": "M::N",
+      "Kind": "",
+      "SpecificKind": "",
+      "Name": "N",
+      "Callable": false,
+      "File": "lib/cases/module.rb",
+      "DefStart": 11,
+      "DefEnd": 31,
+      "Exported": true
+    },
+    {
+      "Path": "$methods/f",
+      "SpecificPath": "#f",
+      "Kind": "",
+      "SpecificKind": "",
+      "Name": "f",
+      "Callable": false,
+      "File": "lib/cases/top_def.rb",
+      "DefStart": 0,
+      "DefEnd": 12,
+      "Exported": true
+    }
+  ],
+  "Docs": [
+    {
+      "Path": "C/$methods/x",
+      "Format": "",
+      "Data": "\u003cdiv class=\"method_body\"\u003e\u003cdiv class=\"docstring\"\u003e\n  \u003cdiv class=\"discussion\"\u003e\n    \n\u003cp\u003eReturns the value of attribute x\u003c/p\u003e\n\n\n  \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"tags\"\u003e\n  \n\n\u003c/div\u003e\u003c/div\u003e",
+      "File": "",
+      "Start": 0,
+      "End": 0
+    },
+    {
+      "Path": "C/$methods/x=",
+      "Format": "",
+      "Data": "\u003cdiv class=\"method_body\"\u003e\u003cdiv class=\"docstring\"\u003e\n  \u003cdiv class=\"discussion\"\u003e\n    \n\u003cp\u003eSets the attribute x\u003c/p\u003e\n\n\n  \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"tags\"\u003e\n  \u003cp class=\"tag_title\"\u003eParameters:\u003c/p\u003e\n\u003cul class=\"param\"\u003e\n  \n    \u003cli\u003e\n      \n        \u003cspan class='name'\u003evalue\u003c/span\u003e\n      \n      \n        \u003cspan class='type'\u003e\u003c/span\u003e\n      \n      \n      \n        \u0026mdash;\n        \u003cdiv class='inline'\u003e\n\u003cp\u003ethe value to set the attribute x to.\u003c/p\u003e\n\u003c/div\u003e\n      \n    \u003c/li\u003e\n  \n\u003c/ul\u003e\n\n\n\u003c/div\u003e\u003c/div\u003e",
+      "File": "",
+      "Start": 0,
+      "End": 0
+    }
+  ]
+}
+

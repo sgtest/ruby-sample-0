@@ -1,4 +1,150 @@
 {
-  "CommitMap": {},
-  "HunkMap": {}
+  "CommitMap": {
+    "315d4aebfcc8fd3472ac6e1a179a12014318521e": {
+      "ID": "315d4aebfcc8fd3472ac6e1a179a12014318521e",
+      "Author": {
+        "Name": "Beyang Liu",
+        "Email": "beyang.liu@gmail.com"
+      },
+      "Message": "new expected test data directory",
+      "AuthorDate": "2014-05-01T01:50:03Z"
+    },
+    "464b1d2a92586b3ef7690310de7011eff781ca9c": {
+      "ID": "464b1d2a92586b3ef7690310de7011eff781ca9c",
+      "Author": {
+        "Name": "Beyang Liu",
+        "Email": "beyang.liu@gmail.com"
+      },
+      "Message": "initial stuff",
+      "AuthorDate": "2014-04-18T21:12:04Z"
+    }
+  },
+  "HunkMap": {
+    ".sourcegraph-data-exp/test-commit/config.json": [
+      {
+        "CommitID": "315d4aebfcc8fd3472ac6e1a179a12014318521e",
+        "LineStart": 0,
+        "LineEnd": 11,
+        "CharStart": 0,
+        "CharEnd": 180
+      }
+    ],
+    ".sourcegraph-data-exp/test-commit/ruby_gem@RubyGem_blame.v0.json": [
+      {
+        "CommitID": "315d4aebfcc8fd3472ac6e1a179a12014318521e",
+        "LineStart": 0,
+        "LineEnd": 4,
+        "CharStart": 0,
+        "CharEnd": 39
+      }
+    ],
+    ".sourcegraph-data-exp/test-commit/ruby_gem@RubyGem_raw_deps.v0.json": [
+      {
+        "CommitID": "315d4aebfcc8fd3472ac6e1a179a12014318521e",
+        "LineStart": 0,
+        "LineEnd": 1,
+        "CharStart": 0,
+        "CharEnd": 3
+      }
+    ],
+    "Gemfile": [
+      {
+        "CommitID": "464b1d2a92586b3ef7690310de7011eff781ca9c",
+        "LineStart": 0,
+        "LineEnd": 3,
+        "CharStart": 0,
+        "CharEnd": 40
+      }
+    ],
+    "Gemfile.lock": [
+      {
+        "CommitID": "464b1d2a92586b3ef7690310de7011eff781ca9c",
+        "LineStart": 0,
+        "LineEnd": 14,
+        "CharStart": 0,
+        "CharEnd": 137
+      }
+    ],
+    "lib/cases/class.rb": [
+      {
+        "CommitID": "464b1d2a92586b3ef7690310de7011eff781ca9c",
+        "LineStart": 0,
+        "LineEnd": 28,
+        "CharStart": 0,
+        "CharEnd": 273
+      }
+    ],
+    "lib/cases/core.rb": [
+      {
+        "CommitID": "464b1d2a92586b3ef7690310de7011eff781ca9c",
+        "LineStart": 0,
+        "LineEnd": 2,
+        "CharStart": 0,
+        "CharEnd": 37
+      }
+    ],
+    "lib/cases/global_var.rb": [
+      {
+        "CommitID": "464b1d2a92586b3ef7690310de7011eff781ca9c",
+        "LineStart": 0,
+        "LineEnd": 2,
+        "CharStart": 0,
+        "CharEnd": 8
+      }
+    ],
+    "lib/cases/module.rb": [
+      {
+        "CommitID": "464b1d2a92586b3ef7690310de7011eff781ca9c",
+        "LineStart": 0,
+        "LineEnd": 12,
+        "CharStart": 0,
+        "CharEnd": 60
+      }
+    ],
+    "lib/cases/stdlib.rb": [
+      {
+        "CommitID": "464b1d2a92586b3ef7690310de7011eff781ca9c",
+        "LineStart": 0,
+        "LineEnd": 3,
+        "CharStart": 0,
+        "CharEnd": 57
+      }
+    ],
+    "lib/cases/top_const.rb": [
+      {
+        "CommitID": "464b1d2a92586b3ef7690310de7011eff781ca9c",
+        "LineStart": 0,
+        "LineEnd": 2,
+        "CharStart": 0,
+        "CharEnd": 8
+      }
+    ],
+    "lib/cases/top_def.rb": [
+      {
+        "CommitID": "464b1d2a92586b3ef7690310de7011eff781ca9c",
+        "LineStart": 0,
+        "LineEnd": 4,
+        "CharStart": 0,
+        "CharEnd": 19
+      }
+    ],
+    "lib/ruby_gem.rb": [
+      {
+        "CommitID": "464b1d2a92586b3ef7690310de7011eff781ca9c",
+        "LineStart": 0,
+        "LineEnd": 64,
+        "CharStart": 0,
+        "CharEnd": 883
+      }
+    ],
+    "ruby_gem.gemspec": [
+      {
+        "CommitID": "464b1d2a92586b3ef7690310de7011eff781ca9c",
+        "LineStart": 0,
+        "LineEnd": 13,
+        "CharStart": 0,
+        "CharEnd": 416
+      }
+    ]
+  }
 }
