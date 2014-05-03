@@ -17,6 +17,15 @@
       },
       "Message": "initial stuff",
       "AuthorDate": "2014-04-18T21:12:04Z"
+    },
+    "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2": {
+      "ID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+      "Author": {
+        "Name": "Beyang Liu",
+        "Email": "beyang.liu@gmail.com"
+      },
+      "Message": "updated test data",
+      "AuthorDate": "2014-05-02T04:00:17Z"
     }
   },
   "HunkMap": {
@@ -33,9 +42,32 @@
       {
         "CommitID": "315d4aebfcc8fd3472ac6e1a179a12014318521e",
         "LineStart": 0,
-        "LineEnd": 4,
+        "LineEnd": 1,
         "CharStart": 0,
-        "CharEnd": 39
+        "CharEnd": 2
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 1,
+        "LineEnd": 149,
+        "CharStart": 2,
+        "CharEnd": 3652
+      },
+      {
+        "CommitID": "315d4aebfcc8fd3472ac6e1a179a12014318521e",
+        "LineStart": 149,
+        "LineEnd": 150,
+        "CharStart": 3652,
+        "CharEnd": 3654
+      }
+    ],
+    ".sourcegraph-data-exp/test-commit/ruby_gem@RubyGem_graph.v0.json": [
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 0,
+        "LineEnd": 203,
+        "CharStart": 0,
+        "CharEnd": 5306
       }
     ],
     ".sourcegraph-data-exp/test-commit/ruby_gem@RubyGem_raw_deps.v0.json": [
@@ -45,6 +77,24 @@
         "LineEnd": 1,
         "CharStart": 0,
         "CharEnd": 3
+      }
+    ],
+    ".sourcegraph-data-exp/test-commit/ruby_gem@RubyGem_resolved_deps.v0.json": [
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 0,
+        "LineEnd": 1,
+        "CharStart": 0,
+        "CharEnd": 3
+      }
+    ],
+    ".sourcegraph-data-exp/test-commit/ruby_gem@RubyGem_unit-authorship.v0.json": [
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 0,
+        "LineEnd": 167,
+        "CharStart": 0,
+        "CharEnd": 4654
       }
     ],
     "Gemfile": [
