@@ -583,6 +583,24 @@
       "AuthorEmail": "beyang.liu@gmail.com",
       "LastCommitDate": "2014-04-18T21:12:04Z",
       "LastCommitID": "464b1d2a92586b3ef7690310de7011eff781ca9c"
+    },
+    {
+      "SymbolPath": "BasicObject/$methods/initialize",
+      "File": "lib/cases/class.rb",
+      "Start": 239,
+      "End": 242,
+      "AuthorEmail": "beyang.liu@gmail.com",
+      "LastCommitDate": "2014-04-18T21:12:04Z",
+      "LastCommitID": "464b1d2a92586b3ef7690310de7011eff781ca9c"
+    },
+    {
+      "SymbolPath": "BasicObject/$methods/initialize",
+      "File": "lib/cases/class.rb",
+      "Start": 257,
+      "End": 260,
+      "AuthorEmail": "beyang.liu@gmail.com",
+      "LastCommitDate": "2014-04-18T21:12:04Z",
+      "LastCommitID": "464b1d2a92586b3ef7690310de7011eff781ca9c"
     }
   ],
   "Authors": [
@@ -604,7 +622,7 @@
       "SymbolRepo": "",
       "SymbolUnitType": null,
       "SymbolUnit": null,
-      "RefCount": 46
+      "RefCount": 48
     }
   ]
 }

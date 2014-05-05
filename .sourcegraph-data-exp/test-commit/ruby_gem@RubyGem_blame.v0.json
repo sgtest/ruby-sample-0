@@ -18,6 +18,15 @@
       "Message": "initial stuff",
       "AuthorDate": "2014-04-18T21:12:04Z"
     },
+    "65614a77ab4d41e2642694471e2988c6c0470a8a": {
+      "ID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+      "Author": {
+        "Name": "Beyang Liu",
+        "Email": "beyang.liu@gmail.com"
+      },
+      "Message": "include references in expected test data",
+      "AuthorDate": "2014-05-03T05:57:25Z"
+    },
     "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2": {
       "ID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
       "Author": {
@@ -49,25 +58,655 @@
       {
         "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
         "LineStart": 1,
-        "LineEnd": 149,
+        "LineEnd": 19,
         "CharStart": 2,
-        "CharEnd": 3652
+        "CharEnd": 605
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 19,
+        "LineEnd": 28,
+        "CharStart": 605,
+        "CharEnd": 896
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 28,
+        "LineEnd": 44,
+        "CharStart": 896,
+        "CharEnd": 1328
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 44,
+        "LineEnd": 68,
+        "CharStart": 1328,
+        "CharEnd": 1963
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 68,
+        "LineEnd": 69,
+        "CharStart": 1963,
+        "CharEnd": 1987
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 69,
+        "LineEnd": 70,
+        "CharStart": 1987,
+        "CharEnd": 2011
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 70,
+        "LineEnd": 81,
+        "CharStart": 2011,
+        "CharEnd": 2281
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 81,
+        "LineEnd": 99,
+        "CharStart": 2281,
+        "CharEnd": 2808
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 99,
+        "LineEnd": 199,
+        "CharStart": 2808,
+        "CharEnd": 5085
       },
       {
         "CommitID": "315d4aebfcc8fd3472ac6e1a179a12014318521e",
-        "LineStart": 149,
-        "LineEnd": 150,
-        "CharStart": 3652,
-        "CharEnd": 3654
+        "LineStart": 199,
+        "LineEnd": 200,
+        "CharStart": 5085,
+        "CharEnd": 5087
       }
     ],
     ".sourcegraph-data-exp/test-commit/ruby_gem@RubyGem_graph.v0.json": [
       {
         "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
         "LineStart": 0,
-        "LineEnd": 203,
+        "LineEnd": 5,
         "CharStart": 0,
-        "CharEnd": 5306
+        "CharEnd": 69
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 5,
+        "LineEnd": 7,
+        "CharStart": 69,
+        "CharEnd": 126
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 7,
+        "LineEnd": 11,
+        "CharStart": 126,
+        "CharEnd": 231
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 11,
+        "LineEnd": 12,
+        "CharStart": 231,
+        "CharEnd": 250
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 12,
+        "LineEnd": 17,
+        "CharStart": 250,
+        "CharEnd": 354
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 17,
+        "LineEnd": 19,
+        "CharStart": 354,
+        "CharEnd": 408
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 19,
+        "LineEnd": 20,
+        "CharStart": 408,
+        "CharEnd": 429
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 20,
+        "LineEnd": 21,
+        "CharStart": 429,
+        "CharEnd": 453
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 21,
+        "LineEnd": 22,
+        "CharStart": 453,
+        "CharEnd": 489
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 22,
+        "LineEnd": 26,
+        "CharStart": 489,
+        "CharEnd": 587
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 26,
+        "LineEnd": 30,
+        "CharStart": 587,
+        "CharEnd": 661
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 30,
+        "LineEnd": 32,
+        "CharStart": 661,
+        "CharEnd": 715
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 32,
+        "LineEnd": 33,
+        "CharStart": 715,
+        "CharEnd": 735
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 33,
+        "LineEnd": 34,
+        "CharStart": 735,
+        "CharEnd": 759
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 34,
+        "LineEnd": 35,
+        "CharStart": 759,
+        "CharEnd": 795
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 35,
+        "LineEnd": 39,
+        "CharStart": 795,
+        "CharEnd": 887
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 39,
+        "LineEnd": 43,
+        "CharStart": 887,
+        "CharEnd": 963
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 43,
+        "LineEnd": 45,
+        "CharStart": 963,
+        "CharEnd": 1017
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 45,
+        "LineEnd": 46,
+        "CharStart": 1017,
+        "CharEnd": 1038
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 46,
+        "LineEnd": 47,
+        "CharStart": 1038,
+        "CharEnd": 1062
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 47,
+        "LineEnd": 48,
+        "CharStart": 1062,
+        "CharEnd": 1098
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 48,
+        "LineEnd": 52,
+        "CharStart": 1098,
+        "CharEnd": 1187
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 52,
+        "LineEnd": 56,
+        "CharStart": 1187,
+        "CharEnd": 1259
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 56,
+        "LineEnd": 58,
+        "CharStart": 1259,
+        "CharEnd": 1313
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 58,
+        "LineEnd": 59,
+        "CharStart": 1313,
+        "CharEnd": 1332
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 59,
+        "LineEnd": 60,
+        "CharStart": 1332,
+        "CharEnd": 1356
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 60,
+        "LineEnd": 61,
+        "CharStart": 1356,
+        "CharEnd": 1392
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 61,
+        "LineEnd": 65,
+        "CharStart": 1392,
+        "CharEnd": 1478
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 65,
+        "LineEnd": 69,
+        "CharStart": 1478,
+        "CharEnd": 1552
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 69,
+        "LineEnd": 71,
+        "CharStart": 1552,
+        "CharEnd": 1606
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 71,
+        "LineEnd": 72,
+        "CharStart": 1606,
+        "CharEnd": 1626
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 72,
+        "LineEnd": 73,
+        "CharStart": 1626,
+        "CharEnd": 1650
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 73,
+        "LineEnd": 74,
+        "CharStart": 1650,
+        "CharEnd": 1686
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 74,
+        "LineEnd": 78,
+        "CharStart": 1686,
+        "CharEnd": 1780
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 78,
+        "LineEnd": 82,
+        "CharStart": 1780,
+        "CharEnd": 1860
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 82,
+        "LineEnd": 84,
+        "CharStart": 1860,
+        "CharEnd": 1914
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 84,
+        "LineEnd": 85,
+        "CharStart": 1914,
+        "CharEnd": 1937
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 85,
+        "LineEnd": 86,
+        "CharStart": 1937,
+        "CharEnd": 1961
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 86,
+        "LineEnd": 87,
+        "CharStart": 1961,
+        "CharEnd": 1997
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 87,
+        "LineEnd": 91,
+        "CharStart": 1997,
+        "CharEnd": 2087
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 91,
+        "LineEnd": 95,
+        "CharStart": 2087,
+        "CharEnd": 2153
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 95,
+        "LineEnd": 97,
+        "CharStart": 2153,
+        "CharEnd": 2216
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 97,
+        "LineEnd": 100,
+        "CharStart": 2216,
+        "CharEnd": 2297
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 100,
+        "LineEnd": 103,
+        "CharStart": 2297,
+        "CharEnd": 2361
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 103,
+        "LineEnd": 107,
+        "CharStart": 2361,
+        "CharEnd": 2441
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 107,
+        "LineEnd": 109,
+        "CharStart": 2441,
+        "CharEnd": 2495
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 109,
+        "LineEnd": 110,
+        "CharStart": 2495,
+        "CharEnd": 2518
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 110,
+        "LineEnd": 111,
+        "CharStart": 2518,
+        "CharEnd": 2542
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 111,
+        "LineEnd": 112,
+        "CharStart": 2542,
+        "CharEnd": 2578
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 112,
+        "LineEnd": 116,
+        "CharStart": 2578,
+        "CharEnd": 2668
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 116,
+        "LineEnd": 120,
+        "CharStart": 2668,
+        "CharEnd": 2732
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 120,
+        "LineEnd": 122,
+        "CharStart": 2732,
+        "CharEnd": 2785
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 122,
+        "LineEnd": 125,
+        "CharStart": 2785,
+        "CharEnd": 2865
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 125,
+        "LineEnd": 127,
+        "CharStart": 2865,
+        "CharEnd": 2905
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 127,
+        "LineEnd": 132,
+        "CharStart": 2905,
+        "CharEnd": 3014
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 132,
+        "LineEnd": 134,
+        "CharStart": 3014,
+        "CharEnd": 3068
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 134,
+        "LineEnd": 135,
+        "CharStart": 3068,
+        "CharEnd": 3089
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 135,
+        "LineEnd": 136,
+        "CharStart": 3089,
+        "CharEnd": 3113
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 136,
+        "LineEnd": 137,
+        "CharStart": 3113,
+        "CharEnd": 3149
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 137,
+        "LineEnd": 141,
+        "CharStart": 3149,
+        "CharEnd": 3247
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 141,
+        "LineEnd": 145,
+        "CharStart": 3247,
+        "CharEnd": 3326
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 145,
+        "LineEnd": 147,
+        "CharStart": 3326,
+        "CharEnd": 3380
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 147,
+        "LineEnd": 148,
+        "CharStart": 3380,
+        "CharEnd": 3400
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 148,
+        "LineEnd": 149,
+        "CharStart": 3400,
+        "CharEnd": 3424
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 149,
+        "LineEnd": 150,
+        "CharStart": 3424,
+        "CharEnd": 3460
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 150,
+        "LineEnd": 166,
+        "CharStart": 3460,
+        "CharEnd": 3904
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 166,
+        "LineEnd": 170,
+        "CharStart": 3904,
+        "CharEnd": 3963
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 170,
+        "LineEnd": 172,
+        "CharStart": 3963,
+        "CharEnd": 4019
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 172,
+        "LineEnd": 176,
+        "CharStart": 4019,
+        "CharEnd": 4121
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 176,
+        "LineEnd": 177,
+        "CharStart": 4121,
+        "CharEnd": 4140
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 177,
+        "LineEnd": 182,
+        "CharStart": 4140,
+        "CharEnd": 4227
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 182,
+        "LineEnd": 184,
+        "CharStart": 4227,
+        "CharEnd": 4283
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 184,
+        "LineEnd": 187,
+        "CharStart": 4283,
+        "CharEnd": 4364
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 187,
+        "LineEnd": 189,
+        "CharStart": 4364,
+        "CharEnd": 4404
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 189,
+        "LineEnd": 192,
+        "CharStart": 4404,
+        "CharEnd": 4440
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 192,
+        "LineEnd": 204,
+        "CharStart": 4440,
+        "CharEnd": 4780
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 204,
+        "LineEnd": 206,
+        "CharStart": 4780,
+        "CharEnd": 4836
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 206,
+        "LineEnd": 208,
+        "CharStart": 4836,
+        "CharEnd": 4890
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 208,
+        "LineEnd": 209,
+        "CharStart": 4890,
+        "CharEnd": 4909
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 209,
+        "LineEnd": 210,
+        "CharStart": 4909,
+        "CharEnd": 4933
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 210,
+        "LineEnd": 212,
+        "CharStart": 4933,
+        "CharEnd": 4992
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 212,
+        "LineEnd": 723,
+        "CharStart": 4992,
+        "CharEnd": 15796
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 723,
+        "LineEnd": 745,
+        "CharStart": 15796,
+        "CharEnd": 17140
       }
     ],
     ".sourcegraph-data-exp/test-commit/ruby_gem@RubyGem_raw_deps.v0.json": [
@@ -92,9 +731,275 @@
       {
         "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
         "LineStart": 0,
-        "LineEnd": 167,
+        "LineEnd": 8,
         "CharStart": 0,
-        "CharEnd": 4654
+        "CharEnd": 236
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 8,
+        "LineEnd": 10,
+        "CharStart": 236,
+        "CharEnd": 285
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 10,
+        "LineEnd": 18,
+        "CharStart": 285,
+        "CharEnd": 510
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 18,
+        "LineEnd": 20,
+        "CharStart": 510,
+        "CharEnd": 559
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 20,
+        "LineEnd": 28,
+        "CharStart": 559,
+        "CharEnd": 802
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 28,
+        "LineEnd": 30,
+        "CharStart": 802,
+        "CharEnd": 851
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 30,
+        "LineEnd": 38,
+        "CharStart": 851,
+        "CharEnd": 1088
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 38,
+        "LineEnd": 40,
+        "CharStart": 1088,
+        "CharEnd": 1137
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 40,
+        "LineEnd": 48,
+        "CharStart": 1137,
+        "CharEnd": 1375
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 48,
+        "LineEnd": 50,
+        "CharStart": 1375,
+        "CharEnd": 1424
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 50,
+        "LineEnd": 58,
+        "CharStart": 1424,
+        "CharEnd": 1664
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 58,
+        "LineEnd": 60,
+        "CharStart": 1664,
+        "CharEnd": 1713
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 60,
+        "LineEnd": 68,
+        "CharStart": 1713,
+        "CharEnd": 1953
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 68,
+        "LineEnd": 70,
+        "CharStart": 1953,
+        "CharEnd": 2002
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 70,
+        "LineEnd": 78,
+        "CharStart": 2002,
+        "CharEnd": 2238
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 78,
+        "LineEnd": 80,
+        "CharStart": 2238,
+        "CharEnd": 2287
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 80,
+        "LineEnd": 88,
+        "CharStart": 2287,
+        "CharEnd": 2524
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 88,
+        "LineEnd": 90,
+        "CharStart": 2524,
+        "CharEnd": 2573
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 90,
+        "LineEnd": 97,
+        "CharStart": 2573,
+        "CharEnd": 2775
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 97,
+        "LineEnd": 100,
+        "CharStart": 2775,
+        "CharEnd": 2851
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 100,
+        "LineEnd": 108,
+        "CharStart": 2851,
+        "CharEnd": 3078
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 108,
+        "LineEnd": 110,
+        "CharStart": 3078,
+        "CharEnd": 3127
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 110,
+        "LineEnd": 118,
+        "CharStart": 3127,
+        "CharEnd": 3372
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 118,
+        "LineEnd": 120,
+        "CharStart": 3372,
+        "CharEnd": 3421
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 120,
+        "LineEnd": 128,
+        "CharStart": 3421,
+        "CharEnd": 3660
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 128,
+        "LineEnd": 130,
+        "CharStart": 3660,
+        "CharEnd": 3709
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 130,
+        "LineEnd": 138,
+        "CharStart": 3709,
+        "CharEnd": 3934
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 138,
+        "LineEnd": 140,
+        "CharStart": 3934,
+        "CharEnd": 3983
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 140,
+        "LineEnd": 148,
+        "CharStart": 3983,
+        "CharEnd": 4210
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 148,
+        "LineEnd": 170,
+        "CharStart": 4210,
+        "CharEnd": 4889
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 170,
+        "LineEnd": 173,
+        "CharStart": 4889,
+        "CharEnd": 4908
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 173,
+        "LineEnd": 587,
+        "CharStart": 4908,
+        "CharEnd": 17678
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 587,
+        "LineEnd": 592,
+        "CharStart": 17678,
+        "CharEnd": 17858
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 592,
+        "LineEnd": 593,
+        "CharStart": 17858,
+        "CharEnd": 17883
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 593,
+        "LineEnd": 594,
+        "CharStart": 17883,
+        "CharEnd": 17913
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 594,
+        "LineEnd": 595,
+        "CharStart": 17913,
+        "CharEnd": 17946
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 595,
+        "LineEnd": 598,
+        "CharStart": 17946,
+        "CharEnd": 17994
+      },
+      {
+        "CommitID": "65614a77ab4d41e2642694471e2988c6c0470a8a",
+        "LineStart": 598,
+        "LineEnd": 609,
+        "CharStart": 17994,
+        "CharEnd": 18297
+      },
+      {
+        "CommitID": "e0cea46e8c31ae5dfc816f584d859bc7c6b26fd2",
+        "LineStart": 609,
+        "LineEnd": 610,
+        "CharStart": 18297,
+        "CharEnd": 18299
       }
     ],
     "Gemfile": [

@@ -721,6 +721,28 @@
       "File": "lib/cases/top_def.rb",
       "Start": 14,
       "End": 15
+    },
+    {
+      "SymbolRepo": "",
+      "SymbolUnitType": "",
+      "SymbolUnit": "",
+      "SymbolPath": "BasicObject/$methods/initialize",
+      "Def": false,
+      "Repo": "",
+      "File": "lib/cases/class.rb",
+      "Start": 239,
+      "End": 242
+    },
+    {
+      "SymbolRepo": "",
+      "SymbolUnitType": "",
+      "SymbolUnit": "",
+      "SymbolPath": "BasicObject/$methods/initialize",
+      "Def": false,
+      "Repo": "",
+      "File": "lib/cases/class.rb",
+      "Start": 257,
+      "End": 260
     }
   ],
   "Docs": [
